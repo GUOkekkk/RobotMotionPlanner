@@ -13,21 +13,21 @@ By adjusting the `main()` function to change the robot start position, end posit
 The result is like:
 <p align="center">
       <center>
-      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/rrtplanner.png" width="25%" height="25%" />
+      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/rrtplanner.png" />
       Figure 1. RRT Planner Result
       </center>
 </p>
 
 <p align="center">
       <center>
-      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/prmplanner.png" width="25%" height="25%" />
+      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/prmplanner.png" />
       Figure 1. PRM Planner Result
       </center>
 </p>
 
 <p align="center">
       <center>
-      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarplanner.png" width="25%" height="25%" />
+      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarpalnner.png" />
       Figure 1. Astar Planner Result
       </center>
 </p>
