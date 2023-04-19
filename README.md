@@ -49,8 +49,6 @@ The result is like:
 </center>
 
 
-<p align="center">
-      
-      <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarpalnner.png"/>
-      <center>Astar Planner Result</center>
-</p>
+<p align="center"><img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarpalnner.png"/></p>
+<center>Astar Planner Result</center>
+
