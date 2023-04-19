@@ -49,6 +49,10 @@ The result is like:
 </center>
 
 
-<center><img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarpalnner.png"/></center>
-<center>Astar Planner Result</center>
+<p align="center">
+
+  <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarpalnner.png">
+  This is an image
+
+</p>
 
