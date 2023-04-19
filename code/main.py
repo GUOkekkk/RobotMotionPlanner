@@ -25,12 +25,12 @@ def cal_len_path(path):
 def main(sx=0.0, sy=0.0, gx=6.0, gy=10.0, is_show=True, planner: str = "rrt"):
     print("start " + __file__)
 
-    # ====Search Path with RRT====
+    # ====Obstacle List====
     obstacleList = [(5, 5, 1), (3, 6, 2), (3, 8, 2), (3, 10, 2), (7, 5, 2), (9, 5, 2), (8, 10, 1)]  # [x, y, radius]
 
     start = time.time()
-    # Use the RRT planner
-    # Set Initial parameters
+
+    # ====Search Path with RRT====
     if planner == "rrt":
         print("-------------------------------")
         print("Using RRT planner")
@@ -54,6 +54,7 @@ def main(sx=0.0, sy=0.0, gx=6.0, gy=10.0, is_show=True, planner: str = "rrt"):
             plt.legend()
             plt.show()
 
+    # ====Search Path with PRM====
     elif planner == "prm":
         print("-------------------------------")
         print("Using PRM planner")
@@ -78,6 +79,7 @@ def main(sx=0.0, sy=0.0, gx=6.0, gy=10.0, is_show=True, planner: str = "rrt"):
             plt.legend()
             plt.show()
 
+    # ====Search Path with Astar====
     elif planner == "astar":
         print("-------------------------------")
         print("Using A* planner")
