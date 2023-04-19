@@ -25,9 +25,7 @@ The result is like:
       </center>
 </p>
 
-<p align="center">
       <center>
       <img src="https://github.com/GUOkekkk/RobotMotionPlanner/blob/main/pics/astarpalnner.png" />
       Figure 1. Astar Planner Result
       </center>
-</p>
